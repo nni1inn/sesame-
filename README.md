@@ -2,7 +2,7 @@
 
 ![logo](./sesame.svg)
 
-## privacy policy
+## Privacy Policy
 
 **sesame** and its developer prioritize your privacy. Our app uses Google Analytics and Google's advertising frameworks to remain free and accessible. We only collect information you decide to provide through Apple and use it to improve the app's functionality.
 
